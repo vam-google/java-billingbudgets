@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.2.3](https://www.github.com/googleapis/java-billingbudgets/compare/v0.2.2...v0.2.3) (2020-03-16)
+
+
+### Dependencies
+
+* update core dependencies to v1.93.1 ([#87](https://www.github.com/googleapis/java-billingbudgets/issues/87)) ([03a01c9](https://www.github.com/googleapis/java-billingbudgets/commit/03a01c9ff7955a162bba41a0757cc72742c353cc))
+
 ### [0.2.2](https://www.github.com/googleapis/java-billingbudgets/compare/v0.2.1...v0.2.2) (2020-03-03)
 
 
